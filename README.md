@@ -1,1 +1,2 @@
 # CPS530_Website
+A foray into web-development. Experimenting with front-end technologies such as jQuery, Bootstrap, and VueJS. The back-end will be written using MySQL and PHP. A focus is placed on the layout, accessibility, responsiveness, and validity of HTML structure. 
