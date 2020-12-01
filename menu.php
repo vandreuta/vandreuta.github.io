@@ -24,17 +24,17 @@
 </head>
 <body>
 	<nav class="navbar navbar-expand-sm navbar-light bg-light" >
-        <a href="index.html" class="navbar-brand">Ultimate Foods</a>
+        <a href="https://scs.ryerson.ca/~vandreut/" class="navbar-brand">Ultimate Foods</a>
         <button class="navbar-toggler">
             <span class="navbar-toggler-icon" data-toggle="collapse" data-target="#navbar"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav ml-auto ">
                 <li class="nav-item"></li>
-                <a href="menu.html" class="nav-link">Menu</a>
+                <a href="#" class="nav-link">Menu</a>
                 <a href="#" class="nav-link">Coupons</a>
                 <a href="#" class="nav-link">Locations</a>
-                <a href="contactForm.html" class="nav-link">Contact Us </a>
+                <a href="https://scs.ryerson.ca/~vandreut/contactForm.html" class="nav-link">Contact Us </a>
                 <a href="#" class="nav-link">Shopping Cart </a>
             </ul>			
         </div>
