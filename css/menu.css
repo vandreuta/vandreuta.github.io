@@ -1,15 +1,43 @@
-/* Navigation Bar */
 .navbar-nav{
 	padding-right: 2%
-}
 
+}
 .navbar-brand{
 	padding-right: 2%
+
+}
+div.container{
+	width:80%;
+	margin:auto;
 }
 
-.body{
-	overflow-x:hidden; 
+#page{
+	position: relative;
+	min-height: 100vh;
 }
+
+#content{
+	padding-bottom: 2.5rem;
+}
+
+html {
+	height: 100%;
+}
+body {
+	font-family: 'Open Sans';font-size: 22px;
+	padding: 0;
+	margin: 0;
+	min-height: 100%;
+	display: grid;
+	grid-template-rows: 1fr auto;
+	overflow-x: hidden;
+}
+.footer {
+	grid-row-start: 2;
+	grid-row-end: 3;
+
+}
+ 
 
 /* Menu Name and Banner*/
  
