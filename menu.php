@@ -62,7 +62,7 @@
                         printf("<div class=\"row\" id=\"menu\">");
                         printf("<div class=\"col-lg-3 col-m-4 col-sm-6\">");
                         printf("<div class=\"card\">");
-                        printf("<img class=\"card-img-top\" src=\"./pizza2.jpg\" alt=\"Card image cap\">");
+                        printf("<img class=\"card-img-top\" src=\"%s\" alt=\"Card image cap\">", $row['url']);
                         printf("<div class=\"card-body text-center\">");
                         printf("<h5 class=\"card-title\">%s $%d</h5>", $row['name'],$row['price']);
                         printf("<p class=\"card-text\">%s</p>", $row['description']);
